@@ -1,0 +1,21 @@
+# Third-party/raw data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# Downloaded upstream dependency
+external/sude/
+external/sude-master/
+
+# Generated outputs
+results/*.csv
+results/*.mat
+!results/reference_alpha02_results.csv
+
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
+codegen/

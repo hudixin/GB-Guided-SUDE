@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the ICGBC 2026 paper and the original SUDE paper."
+title: "GB-Guided SUDE"
+type: software
+authors:
+  - family-names: Hu
+    given-names: Dixin
+  - family-names: Cheng
+    given-names: Dongdong
+  - family-names: Huang
+    given-names: Jinlong
+  - family-names: Zhang
+    given-names: Sulan
+version: 1.0.0
+date-released: 2026-10-09
